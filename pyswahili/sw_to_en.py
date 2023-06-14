@@ -28,6 +28,13 @@ dictionary = {
         "orodha": "list",
         "kamusi": "dict",
         "jaribu": "try",
+        mavuno":"yield",#added
+
+        "chukua":"take",#added 
+
+        "hatimaye": "finally",#added
+
+        "pita": "pass"#addded
         "ila": "except",  # ila is a lot simple to catch with and most relevant translation of except
     },
     "block_keywords": {
